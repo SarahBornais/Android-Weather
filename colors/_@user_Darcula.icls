@@ -1,0 +1,15 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-01-13T22:01:03</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.2.1.0</property>
+    <property name="modified">2019-01-13T22:14:32</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="1900d5" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d542b0" />
+    <option name="FILESTATUS_UNKNOWN" value="78d183" />
+    <option name="FILESTATUS_changelistConflict" value="d5d048" />
+  </colors>
+</scheme>
